@@ -1,22 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package analisealgoritmos.questoes;
 
+import analisealgoritmos.ordenador.Algoritmo;
 import analisealgoritmos.ordenador.GeradorVetores;
 
-/**
- *
- * @author arjuna
- */
 public abstract class Questao {
     private MarcadorTempo marcador;
+    private Algoritmo alg;
     private GeradorVetores g;
     
-    public Questao(){
-        marcador = new MarcadorTempo();
+    public Questao(MarcadorTempo t, Algoritmo alg){
+        this.marcador = t;
         g = new GeradorVetores();
     }
     
