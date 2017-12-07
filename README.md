@@ -7,6 +7,6 @@ Trabalho relacionado à avaliação da cadeira de Análise de Algoritmos (UFPA/2
 <ul>
   <li>Guilherme Albuquerque (<a href="https://github.com/Lakshamana">@Lakshamana</a>);</li>
   <li>Rafael Sousa (<a href="https://github.com/RafaSou">@RafaSou</a>);</li>
-  <li>Erlon Pinheiro;</li>
+  <li>Erlon Pinheiro (<a href="https://github.com/erlonfonseca">@erlonfonseca</a>);</li>
   <li>André Miranda.</li>
 </ul>
