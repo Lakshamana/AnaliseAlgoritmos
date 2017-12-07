@@ -1,21 +1,19 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package analisealgoritmos;
 
-/**
- *
- * @author arjuna
- */
+import analisealgoritmos.ordenador.GeradorVetores;
+import analisealgoritmos.questoes.MarcadorTempo;
+import analisealgoritmos.questoes.Q1;
+import java.util.Arrays;
+
+
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        Q1 q1 = new Q1(new MarcadorTempo());
+        q1.run();
+        GeradorVetores g = new GeradorVetores();
+        //System.out.println("Vetor: " + Arrays.toString(g.generate(4, 50)));
     }
     
 }

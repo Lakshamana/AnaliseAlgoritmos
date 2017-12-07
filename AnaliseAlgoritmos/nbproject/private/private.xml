@@ -5,9 +5,8 @@
         <group>
             <file>file:/E:/IV_Semestre/Análise_de_Algoritmos/AnaliseAlgoritmos/src/analisealgoritmos/questoes/Q1.java</file>
             <file>file:/E:/IV_Semestre/Análise_de_Algoritmos/AnaliseAlgoritmos/src/analisealgoritmos/ordenador/Ordenador.java</file>
-            <file>file:/E:/IV_Semestre/Análise_de_Algoritmos/AnaliseAlgoritmos/src/analisealgoritmos/ordenador/Algoritmo.java</file>
-            <file>file:/E:/IV_Semestre/Análise_de_Algoritmos/AnaliseAlgoritmos/src/analisealgoritmos/ordenador/Three_Params.java</file>
-            <file>file:/E:/IV_Semestre/Análise_de_Algoritmos/AnaliseAlgoritmos/src/analisealgoritmos/questoes/Questao.java</file>
+            <file>file:/E:/IV_Semestre/Análise_de_Algoritmos/AnaliseAlgoritmos/src/analisealgoritmos/ordenador/ShellSort.java</file>
+            <file>file:/E:/IV_Semestre/Análise_de_Algoritmos/AnaliseAlgoritmos/src/analisealgoritmos/ordenador/BubbleSort.java</file>
             <file>file:/E:/IV_Semestre/Análise_de_Algoritmos/AnaliseAlgoritmos/src/analisealgoritmos/questoes/MarcadorTempo.java</file>
         </group>
     </open-files>
