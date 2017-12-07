@@ -15,7 +15,7 @@ public class Q1 extends Questao{
     //Fase de testes
     @Override
     public void run() {
-        int [] v = getG().generate(4, 10);
+        int [] v = getG().generate(4, 5000);
         getMarcador().setV(v);
         
         System.out.println("Vetor a ordenar: " + Arrays
