@@ -10,5 +10,4 @@ public class Main {
         Q1 q1 = new Q1(new MarcadorTempo());
         q1.run();
     }
-    
 }

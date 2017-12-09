@@ -21,7 +21,6 @@ public class ShellSort extends Ordenador{
     
     @Override
     public void ordenar(int[] v){
-        System.out.println("Tamanho " + v.length);
         shellSort(v, v.length);
     }
 }

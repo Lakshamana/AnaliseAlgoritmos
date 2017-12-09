@@ -2,8 +2,7 @@ package analisealgoritmos.ordenador;
 
 public class BubbleSort extends Ordenador{
     
-    private int[] v;
-    public void bubbleSort(int[] v, int n){
+    private void bubbleSort(int[] v, int n){
         boolean flag = true;
         int aux;
         do{
@@ -24,8 +23,4 @@ public class BubbleSort extends Ordenador{
     public void ordenar(int[] v) {
         bubbleSort(v, v.length);
     }  
-
-    public int[] getV() {
-        return v;
-    }
 }
