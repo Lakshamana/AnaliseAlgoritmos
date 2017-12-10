@@ -1,14 +1,13 @@
 package analisealgoritmos.ordenador;
 
-public class QuickSort extends Ordenador implements Params{
+public class QuickSort extends Ordenador{
 
     @Override
     public void ordenar(int[] v) {
         ordenar(v, 0, v.length);
     }
 
-    @Override
-    public void ordenar(int[] v, int a, int b) {
+    private void ordenar(int[] v, int a, int b) {
         quickSort(v, a, b);
     }
     
