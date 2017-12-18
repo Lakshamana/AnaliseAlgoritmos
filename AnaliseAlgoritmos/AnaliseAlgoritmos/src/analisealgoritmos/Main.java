@@ -9,7 +9,5 @@ public class Main {
     public static void main(String[] args) {
         Q1 q1 = new Q1(new MarcadorTempo());
         q1.run();
-//        Q2 q2 = new Q2(new MarcadorTempo());
-//        q2.run();
     }
 }
